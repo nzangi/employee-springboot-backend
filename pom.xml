@@ -8,6 +8,7 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>com.nzangi</groupId>
 	<artifactId>springboot-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -32,6 +33,7 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
+
 		<dependency>
 			<groupId>com.mysql</groupId>
 			<artifactId>mysql-connector-j</artifactId>
